@@ -18,7 +18,7 @@ Please refactor the solution according to your own best practices.
 
 **Please fork this repository submit your attempt via a pull request**
 
-Details on how to do this can be found in the [https://help.github.com/en/articles/creating-a-pull-request-from-a-fork]: Github help pages
+Details on how to do this can be found in the [Github help pages.] (https://help.github.com/en/articles/creating-a-pull-request-from-a-fork)
 
 Best regards
 
